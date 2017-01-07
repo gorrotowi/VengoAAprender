@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VengoAAprender</string>
+    <string name="date_format">yyyyMMdd_HHmmss</string>
+</resources>
